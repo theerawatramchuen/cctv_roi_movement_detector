@@ -6,6 +6,9 @@ Designed for busy scenes such as **factory floors and cleanrooms** where workers
 
 ---
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3ae59c54-085d-49b9-8398-246effd87e1d" />
+
+
 ## Table of Contents
 
 1. [Features](#features)
